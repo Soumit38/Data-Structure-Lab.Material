@@ -1,0 +1,19 @@
+9 17
+a f
+a c
+a b
+f d
+c f
+b c
+b g
+d c
+e c
+e d
+e j
+g c
+g e
+j d
+j k
+k e
+k g
+j
